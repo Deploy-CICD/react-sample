@@ -45,7 +45,7 @@ export function IndexPage() {
           className='bg-green-600 text-gray-50 px-3 py-2 rounded-md'
           onClick={reload}
         >
-          Load Raequests API (albumId = 1)
+          Loaad Raequests API (albumId = 1)
         </button>
         <button
           className='bg-cyan-600 text-gray-50 px-3 py-2 rounded-md'
